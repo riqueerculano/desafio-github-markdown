@@ -22,6 +22,14 @@ Este projeto tem como objetivo colocar em prática os conhecimentos de Git, GitH
 - Markdown
 - Visual Studio Code
 
+## 📌 Como utilizar
+
+Este repositório foi criado para praticar Git,
+GitHub, Markdown e colaboração em projetos.
+
+Explore os arquivos e acompanhe a evolução
+do desafio por meio das Issues e Pull Requests.
+
 ## 👤 Autor
 
 **Henrique Erculano**
